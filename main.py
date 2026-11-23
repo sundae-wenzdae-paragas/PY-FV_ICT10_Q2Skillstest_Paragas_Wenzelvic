@@ -50,4 +50,3 @@ Atomic Mass: {result[2]}
 #<b> Atomic Number: <b> {element_display[1]}<br>
 #<b> Atomic Mass: <b> {element_display[2]}<br>
 #"""
-
